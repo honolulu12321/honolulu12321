@@ -1,15 +1,4 @@
-![header](https://capsule.render.vercel.app/api?
-type=rounded&
-color=gradient&
-text=%20
-파이리자몽%
-height=200&
-fontSize
-=
-fontColor
-=
-textBg
-=
+![header](https://capsule.render.vercel.app/api?type=rounded&color=gradient&text=%20파이리자몽%height=200&fontSize=fontColor=textBg=
 
 
 
