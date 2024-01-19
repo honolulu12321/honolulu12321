@@ -1,16 +1,4 @@
-![header](https://capsule
-render.vercel.app/api?
-type=rounded&
-color=gradient&
-text=%20
-깃허브 %
-height=200&
-fontSize
-=
-fontColor
-=
-textBg
-=
+
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=honolulu12321)](https://github.com/honolulu12321)
