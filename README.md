@@ -3,7 +3,7 @@ render.vercel.app/api?
 type=rounded&
 color=gradient&
 text=%20
-파이리자몽 %
+파이리자몽%
 height=200&
 fontSize
 =
